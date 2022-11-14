@@ -1,0 +1,6 @@
+site_name: BA-assistant
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+  - glightbox
