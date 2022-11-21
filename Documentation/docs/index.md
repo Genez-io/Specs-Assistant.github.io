@@ -1,11 +1,11 @@
 # Documentation
-## What is BA-assistant
+## What is Specs-assistant
 
 In large-scale projects there is a consistent need for Epics, Stories and Tasks that have a description which
 emphaszies the user's needs and gives insight to the developer on how to implement said issue. These descriptions
 are usually written by hand even tough in most cases the formula for certain well known issues, that appear in
 most projects, is the same. Thus, writing these descriptions by hand becomes a long and tedious procces. Here is where
-BA-assistant comes into the picture. BA-assistant is an eazy to use, fast and reliable tool that helps developers map
+BA-assistant comes into the picture. Specs-Assistant is an eazy to use, fast and reliable tool that helps product owners and business analysts map
 well known issues with templates that fill the description apropriately for each task.  
 
 ## How it works
@@ -38,6 +38,6 @@ complete said fields.
 
 ## Summary
 
-To sum it all up, BA-assistant is a simple and easy to use tool that can speed up the process of creating issues describing a feature in a way that will help the developer better understand the goal and functionalities of said feature, thereby speeding the entire development procces.
+To sum it all up, Specs-Assistant is a simple and easy to use tool that can speed up the process of creating issues describing a feature in a way that will help the developer better understand the goal and functionalities of said feature, thereby speeding the entire development procces.
  
 
