@@ -5,7 +5,7 @@ In large-scale projects there is a consistent need for Epics, Stories and Tasks 
 emphaszies the user's needs and gives insight to the developer on how to implement said issue. These descriptions
 are usually written by hand even tough in most cases the formula for certain well known issues, that appear in
 most projects, is the same. Thus, writing these descriptions by hand becomes a long and tedious procces. Here is where
-BA-assistant comes into the picture. Specs-Assistant is an eazy to use, fast and reliable tool that helps product owners and business analysts map
+Specs-Assistant comes into the picture. Specs-Assistant is an eazy to use, fast and reliable tool that helps product owners and business analysts map
 well known issues with templates that fill the description apropriately for each task.  
 
 ## How it works
