@@ -1,5 +1,5 @@
 # Documentation
-## What is Specs-assistant
+## What is Specs-Assistant
 
 In large-scale projects there is a consistent need for Epics, Stories and Tasks that have a description which
 emphaszies the user's needs and gives insight to the developer on how to implement said issue. These descriptions
