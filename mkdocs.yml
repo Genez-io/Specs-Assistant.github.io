@@ -1,4 +1,4 @@
-site_name: BA-assistant
+site_name: Specs-Assistant
 markdown_extensions:
   - attr_list
   - md_in_html
