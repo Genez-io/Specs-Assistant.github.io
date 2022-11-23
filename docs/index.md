@@ -13,7 +13,7 @@ well known issues with templates that fill the description apropriately for each
 After you chose the projects you would like to manage, you can open the app to manage issues.
 Upon openning the application, you will be presented with the main dashboard
 <!-- picture -->
-![Dashboad](./Dashboard.PNG)
+![Dashboad](./Dashboard.png)
 From here you can click on 'Create from template' to add an epic and it's respective stories. Note that BA-assistant will work
 as intended only if the epic issue type is called 'Epic' and the story issue type is called 'Story'. In future versions we will
 allow name changing for issue types. After clicking on 'Create from template', a panel will open that will show all the available
@@ -39,5 +39,3 @@ complete said fields.
 ## Summary
 
 To sum it all up, Specs-Assistant is a simple and easy to use tool that can speed up the process of creating issues describing a feature in a way that will help the developer better understand the goal and functionalities of said feature, thereby speeding the entire development procces.
- 
-
