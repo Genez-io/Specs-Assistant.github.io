@@ -1,2 +1,2 @@
 # ba-assistant.github.io
-Documentation for BA Assistant
+Documentation for Specs Assistant
